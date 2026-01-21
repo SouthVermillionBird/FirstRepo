@@ -1,2 +1,2 @@
-print("WASSUP BITCH?")
+print("WASSUP?")
 print("BACK UP MF!")
